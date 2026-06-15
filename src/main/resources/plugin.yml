@@ -1,0 +1,14 @@
+name: XClearlag
+version: 1.0
+main: de.xclearlag.XClearlag
+api-version: '1.21'
+
+commands:
+  clearlag:
+    description: Entfernt herumliegende Items
+    usage: /clearlag
+    permission: xclearlag.use
+
+permissions:
+  xclearlag.use:
+    default: op
