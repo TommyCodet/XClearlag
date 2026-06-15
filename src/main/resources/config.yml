@@ -1,0 +1,7 @@
+clear-interval-seconds: 600
+
+warnings:
+  - 60
+  - 30
+  - 10
+  - 5
